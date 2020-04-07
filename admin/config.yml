@@ -60,6 +60,21 @@ collections:
               default: "about",
             }
           - { label: "Body", name: "body", widget: "markdown" }
+  - name: "menu"
+    label: "menu"
+    editor:
+      preview: true
+    files:
+      - label: "sgmenu"
+        name: "sgmenu"
+        file: "_data/sgmenu.yml"
+        fields:
+          - label: "sg items"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: Name, name: name, widget: string }
+              - { label: Link, name: link, widget: string }
   - name: "config"
     label: "Config"
     editor:

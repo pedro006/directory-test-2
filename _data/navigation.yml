@@ -1,8 +1,8 @@
 items:
   - link: /
     name: Home
-  - link: /blog.html
-    name: Blog
+  - link: /locations.html
+    name: Locations
   - link: /staff.html
     name: Staff
   - link: /about.html

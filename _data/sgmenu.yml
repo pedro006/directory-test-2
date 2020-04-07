@@ -1,0 +1,184 @@
+- Menu-Title: Evening
+  Slug: la-dinner-form
+  Collection ID: 5dcf0505c9b1506e6ab65c15
+  Item ID: 5dcf4218ef6ed9726bb1ee77
+  Created On: 'Sat Nov 16 2019 00:26:00 GMT+0000 (Coordinated Universal Time)'
+  Updated On: 'Tue Apr 07 2020 18:57:25 GMT+0000 (Coordinated Universal Time)'
+  Published On: 'Wed Mar 11 2020 18:49:42 GMT+0000 (Coordinated Universal Time)'
+  Locations: SYCAMORE-LA
+  Menu Header: Good Evening
+  Hours: 6-10pm
+  firstTitle: TODAY'S SPECIALS
+  firstContent: "<p>Maitake Mushroom Tempura &nbsp;\t$8</p><p>miso aioli, green garlic powder</p><p><br></p><p>Everything Salad&nbsp;</p><p>market greens and vegetables, herbs, avocado, crunchy stuff&nbsp;</p><p><br></p><p>Slow-Cooked Lamb Shoulder Pressé \t$16</p><p>celeriac cream, sunchokes, pomegranate, vadouvan</p><p><br></p><p>Ice Cream Sundae<br>white miso ice cream, grapefruit granita, sweet pickled</p><p>turnip, sesame crumble, homemade grenadine syrup</p>"
+  firstPrices: >-
+    <p>$8</p><p>‍</p><p>‍‍</p><p>$13</p><p>‍</p><p><span>‍‍</span><br></p><p>$16</p><p><br></p><p><br></p><p>$8</p>
+  secondTitle: FROM THE COLD CASE
+  secondContent: "<p>Mussels Escabeche</p><p>shaved fennel, fermented butternut squash, sprouts + herbs, mini fougasse</p><p><br></p><p>Burrata + Proscuitto</p><p>marinated caper berries, basil, water crackers</p><p><br></p><p>Heirloom Grain or Kale Bowl</p><p>Grain or kale base, pickles, crunchy stuff, herbs, \Lcreamy dression on the side</p><p><br></p><p>Smoked Carrots</p><p>black garlic tahini, preserved lemon</p>"
+  secondPrice: >-
+    <p>$$</p><p><br></p><p><br></p><p><br></p><p>$$<br></p><p><br></p><p><br></p><p>$$</p><p><br></p><p><br></p><p><br></p><p>$$</p>
+  thirdTitle: Beverages
+  thirdContent: >-
+    <p>Housemade Sparkling Lemonade</p><p>Ice Tea</p><p>Mexican
+    Coke</p><p>Fentiman’s Ginger Beer</p><p>Kombucha</p>
+  thirdPrice: <p>$4</p><p>$4</p><p>$4</p><p>$4</p><p>$4</p>
+  fourthTitle: ''
+  fourthContent: ''
+  fourthPrice: ''
+  Item Id: 5dcf4218ef6ed9726bb1ee77
+- Menu-Title: Drinks
+  Slug: la-drinks
+  Collection ID: 5dcf0505c9b1506e6ab65c15
+  Item ID: 5dcf4218edfe6a0d7a613deb
+  Created On: 'Sat Nov 16 2019 00:26:00 GMT+0000 (Coordinated Universal Time)'
+  Updated On: 'Tue Apr 07 2020 18:56:25 GMT+0000 (Coordinated Universal Time)'
+  Published On: 'Fri Mar 13 2020 21:18:18 GMT+0000 (Coordinated Universal Time)'
+  Locations: SYCAMORE-LA
+  Menu Header: DRINKS
+  Hours: ' '
+  firstTitle: BEER
+  firstContent: >-
+    <p><span>Beachwood “Hayabusa Lager”</span><br></p><p><span>Stone
+    “Delicious”</span><br></p><p>Modern Times “Ice Pilsner"</p>
+  firstPrices: <p>$6</p><p>$8</p><p>$7</p>
+  secondTitle: WINE
+  secondContent: >-
+    <p>SPARKLING</p><p>Franciacorta Brut, Vigna Dorata, Lombardy,
+    NV</p><p><span>‍</span><br></p><p>WHITE</p><p>Il Campo, Bianco, Giornata,
+    2018&nbsp;<br></p><p>Albarino, Vinos Atlantico, Rias Biaxas,
+    2018</p><p>Sauvignon Blanc, Henri Bourgeois, Sancerre,
+    2018<br></p><p>‍</p><p>ROSÉ</p><p>Rose, Henri Bourgeois, Sancerre,
+    2018</p><p>‍</p><p>RED<span>&nbsp; &nbsp;&nbsp;</span></p><p>'French Camp'
+    Aglianico, Giornata, Paso Robles, 2017<span><br></span></p><p><span>Turley,
+    'Bechtold' Cinsault, Lodi, 2018</span></p><p>'Serra' Barbera, Paitin, Alba,
+    Italy, 2017</p>
+  secondPrice: >-
+    <p><br></p><p>11/56</p><p><br></p><p><br></p><p>10/18/32<br></p><p>11/40</p><p>14/56</p><p><br></p><p><br></p><p>12/48</p><p><br></p><p><br></p><p>11/18/32<br></p><p>14/52</p><p>15/56</p>
+  thirdTitle: COFFEE AND TEA
+  thirdContent: >-
+    <p><b>ESPRESSO</b></p><p>Espresso</p><p>Americano</p><p>Macchiato</p><p>Espresso
+    Con Panna</p><p>Cappuccino</p><p>Latte</p><p>Vanilla Paste
+    Latte</p><p>Mocha</p><p><br></p><p><b>FILTER COFFEES</b></p><p>Quick
+    Cup</p><p>Pour Over Single Origin</p><p><br></p><p><b>COLD COFFEE / ON
+    TAP</b></p><p>Single origin</p><p>Blend</p><p>Vanilla Iced
+    Latte</p><p><br></p><p><b>TEA</b></p><p>Loose Leaf
+    Teas</p><p><i><br></i></p><p><i>~ Songbird Black</i></p><p><i>~ Silver
+    Tip</i></p><p><i>~ Paz</i></p><p><i>~ Cascara&nbsp;</i></p>
+  thirdPrice: >-
+    <p><br></p><p>$third75</p><p>$third75</p><p>$4</p><p>$fourth25</p><p>$fourth50</p><p>$5</p><p>$6</p><p>$6</p><p><br></p><p><br></p><p>$third50</p><p>$5</p><p><br></p><p><br></p><p>$fourth75</p><p>$fourth25</p><p>$6</p><p><br></p><p><br></p><p>$4</p>
+  fourthTitle: NON-ALCOHOLIC
+  fourthContent: >-
+    <p>Cascara Shrub Soda<br></p><p>Housemade Sparkling Lemonade</p><p>Iced
+    Tea</p><p>Mexican Coke</p><p>Fentiman’s Ginger
+    Beer</p><p>Kombucha</p><p>Moutain Valley Sparkling Water</p>
+  fourthPrice: <p>$fourth50</p><p>$4</p><p>$4</p><p>$4</p><p>$4</p><p>$5</p><p>$5</p>
+  Item Id: 5dcf4218edfe6a0d7a613deb
+- Menu-Title: Afternoon
+  Slug: la-lunch-form
+  Collection ID: 5dcf0505c9b1506e6ab65c15
+  Item ID: 5dcf4218afa6ed635e3189b2
+  Created On: 'Sat Nov 16 2019 00:26:00 GMT+0000 (Coordinated Universal Time)'
+  Updated On: 'Fri Mar 13 2020 20:45:34 GMT+0000 (Coordinated Universal Time)'
+  Published On: 'Fri Mar 13 2020 20:45:34 GMT+0000 (Coordinated Universal Time)'
+  Locations: SYCAMORE-LA
+  Menu Header: Good Afternoon
+  Hours: 11am–4pm
+  firstTitle: TODAY'S SPECIALS
+  firstContent: >-
+    <p><span style="letter-spacing: -0.15px;">Farmers Market Salad — V,
+    GF</span></p><p><i>avocado, herbs, toasted seeds, honey lime
+    dressing</i></p><p><br></p><p>Fried Chicken Sandwich</p><p><i>smoked hot
+    sauce, pickles, iceberg, Duke's mayo, pan de mie
+    bun</i></p><p><i><br></i></p><p>Roasted Sprouting Cauliflower - V,
+    GF</p><p><i>black garlic tahini, preserved lemon,
+    ricotta</i></p><p><i><br></i></p><p>Warm Heirloom Grain Bowl -
+    VG</p><p><i>farmers market vegetables, miso broth, crunchy
+    stuff</i></p><p><i>add a slow cooked egg $2</i></p><p><br></p><p>Smoked
+    Mozzarella &amp; Porcini Arancini — V</p><p><i>red sauce</i></p><p><br></p>
+  firstPrices: >-
+    <p>$11</p><p><br></p><p>‍</p><p>$‍13</p><p><br></p><p><br></p><p>$7</p><p><br></p><p><br></p><p>$12</p><p><br></p><p><br></p><p><br></p><p>$6</p><p><br></p>
+  secondTitle: FROM THE COLD CASE
+  secondContent: >-
+    <p>Smoked Trout Roe Parfait</p><p>sweet potato salad, radish, rye
+    crackers</p><p><br></p><p>Vegetable Crudité — V</p><p>olive bagna cauda,
+    "ranch" creme fraiche, carrot hummus</p><p><br></p><p>Panna Cotta -
+    GF</p><p>pomelo, oro blanco grapefruit, candied
+    pecans<br></p><p><br></p><p>Chocolate Tart</p><p>milk chocolate namelaka,
+    black lime, salted whipped cream<br></p><p><br></p><p>Rice Pudding -
+    GF</p><p>avocado cream, verjus jelly, creme
+    fraiche</p><p><br></p><p>Kalamansi Tart</p><p>kalamansi curd, lemon pound
+    cake, toasted meringue</p><p><br></p><p>Croissant Bread Pudding -
+    V</p><p>creme fraiche, candied walnuts</p><p><br></p><p>V =
+    Vegetarian<br></p><p>VG = Vegan</p><p>GF = Gluten Free</p>
+  secondPrice: >-
+    <p>$14</p><p><br></p><p><br></p><p>$12<br></p><p><br></p><p><br></p><p>$6</p><p><br></p><p><br></p><p>$7</p><p><br></p><p><br></p><p>$6</p><p><br></p><p><br></p><p>$7</p><p><br></p><p><br></p><p>$6</p><p><br></p><p><br></p>
+  thirdTitle: COMING SOON...
+  thirdContent: >-
+    <p><span style="letter-spacing: -0.15px;"><br></span></p><p><span
+    style="letter-spacing: -0.15px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp;Happy Hour Daily - 3:00pm-6:00pm</span><br></p><p>&nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dinner Daily -
+    6:00pm-10:00pm</p><p><br></p><p>**********************************************************</p>
+  thirdPrice: <p><br></p><p><br></p><p><br></p><p><br></p><p>*********</p>
+  fourthTitle: ''
+  fourthContent: ''
+  fourthPrice: ''
+  Item Id: 5dcf4218afa6ed635e3189b2
+- Menu-Title: Morning
+  Slug: la-morning
+  Collection ID: 5dcf0505c9b1506e6ab65c15
+  Item ID: 5dcf0531ea4ae81602a57b28
+  Created On: 'Fri Nov 15 2019 20:06:09 GMT+0000 (Coordinated Universal Time)'
+  Updated On: 'Fri Mar 13 2020 21:50:38 GMT+0000 (Coordinated Universal Time)'
+  Published On: 'Fri Mar 13 2020 21:50:38 GMT+0000 (Coordinated Universal Time)'
+  Locations: SYCAMORE-LA
+  Menu Header: Good Morning
+  Hours: 7-11am
+  firstTitle: TODAY'S SPECIALS
+  firstContent: >-
+    <p>Citrus Cured Smoked Salmon</p><p>choice of bagel, goat’s cheese,
+    pickles<br></p><p><br></p><p>Japanese Omelet Breakfast Sandwich -
+    V</p><p>pan de mie, comte, sweet &amp; sour onions, herb
+    pesto<br></p><p><span>add porchetta
+    $3</span><br></p><p><br></p><p><span>Duck Confit Hash -
+    GF</span><br></p><p>slow cooked eggs, scallions, duck fat potatoes,
+    chimmichurri</p><p><br></p><p>Warm Heirloom Grain Bowl - VG</p><p><i>farmers
+    market vegetables, miso broth, crunchy stuff</i></p><p><i>add a slow cooked
+    egg $2</i></p><p><br></p><p>Cinnamon Sugar Toast - V</p><p>served warm with
+    mascarpone cheese</p>
+  firstPrices: >-
+    <p>$16</p><p>‍</p><p>‍<span style="letter-spacing:
+    -0.15px;">‍</span></p><p>$7<span style="letter-spacing:
+    -0.15px;">‍</span></p><p>‍</p><p><br></p><p>‍</p><p>$15</p><p><br></p><p><br></p><p>$12</p><p><br></p><p><br></p><p><br></p><p>$5</p>
+  secondTitle: FROM THE COLD CASE
+  secondContent: >-
+    <p>Yogurt and Granola - V, GF</p><p>organic house made yogurt, coconut
+    granola, berries</p><p><br></p><p>Frittata - V, GF</p><p><i>roasted
+    mushrooms, ricotta, spinach.&nbsp;&nbsp;<span style="letter-spacing:
+    -0.15px;">served warm</span></i></p><p><br></p><p>Fruit Cup -
+    VG</p><p><em>whipped coconut, candied
+    lemon</em></p><p><em><br></em></p><p>Panna Cotta - GF</p><p>pomelo, oro
+    blanco grapefruit, candied pecans<br></p><p><br></p><p>Croissant Bread
+    Pudding - V<br></p><p>creme fraiche, candied walnuts</p><p><br></p><p>Rice
+    Pudding&nbsp; - GF<em><br></em></p><p>avocado cream, verjus jelly, creme
+    fraiche</p><p><br></p><p><br></p><p>V = Vegetarian</p><p>VG = Vegan</p><p>GF
+    = Gluten Free</p>
+  secondPrice: >-
+    <p>$7</p><p><br></p><p><br></p><p>$6<br></p><p><br></p><p><br></p><p><span
+    style="letter-spacing: -0.15px;">$6</span><br></p><p><span
+    style="letter-spacing: -0.15px;"><br></span></p><p><span
+    style="letter-spacing: -0.15px;"><br></span></p><p><span
+    style="letter-spacing: -0.15px;">$6</span></p><p><span
+    style="letter-spacing: -0.15px;"><br></span></p><p><span
+    style="letter-spacing:
+    -0.15px;"><br></span></p><p>$6</p><p><br></p><p><br></p><p>$6</p>
+  thirdTitle: COMING SOON...
+  thirdContent: >-
+    <p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    Happy Hour Daily - 3:00pm-6:00pm</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dinner Daily -
+    6:00pm-10:00pm</p><p><br></p><p><br></p><p>******************************************************************</p>
+  thirdPrice: <p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>
+  fourthTitle: ''
+  fourthContent: ''
+  fourthPrice: ''
+  Item Id: 5dcf0531ea4ae81602a57b28

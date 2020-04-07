@@ -4,12 +4,83 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<p>
-  {{ page.date | date_to_string }}
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %} -
-  <a href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a>
-  {% endif %}
-</p>
+<ul>
+{% for sgmenu in site.data.sgmenu %}
+  <li>
+    <a href="https://github.com/{{ member.github }}">
+      {{ sgmenu.Menu-Title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
 
+<!--
+<div class="main-div barba-container w-clearfix"><a href="#" class="printbutton w-button">PDF</a>
+  <h1 class="heading-2"></h1>
+  <div class="save-button w-embed"><button type="submit" form="sg-menu-form" class="save-button">SAVE</button></div><a href="locations.html" class="close-button w-inline-block"><img src="images/sg-close-icon.svg" alt=""></a>
+  <div class="sightglasspaper">
+    <div id="element-to-print" class="sheet padding-127mm">
+      <div class="form-block w-form">
+        <form id="sg-menu-form" name="wf-form-LA-BREAKFAST-FORM" data-name="LA-BREAKFAST-FORM" method="get" class="form">
+          <div class="text-content">
+            <div id="menutitle-text" class="menutitle"></div>
+            <div id="itemid-text" class="itemid"></div>
+            <div class="w-row">
+              <div class="column w-col w-col-4">
+                <div class="header-container">
+                  <h2 id="header-text"></h2>
+                </div>
+              </div>
+              <div class="column w-col w-col-4"><img src="images/Sightglass-Logo-CMYK.svg" width="96" alt="" class="sg-logo"></div>
+              <div class="column w-col w-col-4"></div>
+            </div>
+            <h3 id="title-1-text" class="editable"></h3>
+            <div class="solid-line"></div>
+            <div class="body-container">
+              <div id="content-1-text" class="pitch-body editable w-richtext"></div>
+              <div id="price1-text" class="pitch-body prices editable w-richtext"></div>
+            </div>
+            <h3 id="title-2-text" class="editable"></h3>
+            <div class="solid-line"></div>
+            <div class="body-container">
+              <div id="content-2-text" class="pitch-body editable w-richtext"></div>
+              <div id="price2-text" class="pitch-body prices editable w-richtext"></div>
+            </div>
+            <h3 id="title-3-text" class="editable"></h3>
+            <div class="solid-line"></div>
+            <div class="body-container">
+              <div id="content-3-text" class="pitch-body last editable w-richtext"></div>
+              <div id="price3-text" class="pitch-body prices last editable w-richtext"></div>
+            </div>
+            <h3 id="title-4-text"></h3>
+            <div class="solid-line"></div>
+            <div class="body-container">
+              <div id="content-4-text" class="pitch-body editable w-richtext"></div>
+              <div id="price4-text" class="pitch-body prices editable w-richtext"></div>
+            </div>
+            <div class="input-container"><input type="text" maxlength="256" name="hours" data-name="hours" id="hours" class="hidden-inputs w-input"><input type="text" maxlength="256" name="header" data-name="header" id="header" class="hidden-inputs w-input"><input type="text" maxlength="256" name="field" data-name="Field" id="menutitle" class="hidden-inputs w-input"><input type="text" maxlength="256" name="itemid" data-name="itemid" id="itemid" class="hidden-inputs w-input"><input type="text" maxlength="256" name="title-1" data-name="title 1" id="title1" class="hidden-inputs w-input"><input type="text" maxlength="256" name="title2" data-name="title2" id="title2" class="hidden-inputs w-input"><input type="text" maxlength="256" name="title3" data-name="title3" id="title3" class="hidden-inputs w-input"><input type="text" maxlength="256" name="title4" data-name="title4" id="title4" class="hidden-inputs w-input"><textarea data-name="content1" maxlength="5000" id="content1" name="content1" class="hidden-inputs w-input"></textarea><textarea data-name="content2" maxlength="5000" id="content2" name="content2" class="hidden-inputs w-input"></textarea><textarea data-name="content3" maxlength="5000" id="content3" name="content3" class="hidden-inputs w-input"></textarea><textarea data-name="content4" maxlength="5000" id="content4" name="content4" class="hidden-inputs w-input"></textarea><textarea data-name="price1" maxlength="5000" id="price1" name="price1" class="hidden-inputs w-input"></textarea><textarea data-name="price2" maxlength="5000" id="price2" name="price2" class="hidden-inputs w-input"></textarea><textarea data-name="price3" maxlength="5000" id="price3" name="price3" class="hidden-inputs w-input"></textarea><textarea data-name="price4" maxlength="5000" id="price4" name="price4" class="hidden-inputs w-input"></textarea></div>
+          </div>
+          <div class="footer-content">
+            <div class="footer-text">7051 West Willoughby Avenue<br>Los Angeles, CA 90038<br>323-763-8588<br>sightglasscoffee.com</div>
+            <div class="footer-text">Consuming raw or undercooked<br>meats, poultry, seafood, shellfish, <br>or eggs may increase your risk <br>of foodborne illness.</div>
+          </div>
+        </form>
+        <div class="success-message w-form-done">
+          <div class="w-clearfix">
+            <div class="text-block-2">YOU SAVED THE </div>
+            <div class="text-block-2 live"></div>
+            <div class="text-block-2">MENU!</div>
+          </div>
+          <div class="w-clearfix">
+            <div class="text-block-2">REFRESH THE PAGE.</div>
+          </div>
+        </div>
+        <div class="w-form-fail">
+          <div>Oops! Something went wrong while submitting the form.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+-->
 {{ content }}
